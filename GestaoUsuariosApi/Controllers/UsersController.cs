@@ -1,5 +1,6 @@
 ﻿using GestaoUsuariosApi.Features.Users.Commands.Create;
 using GestaoUsuariosApi.Features.Users.Queries.GetAllUsers;
+using GestaoUsuariosApi.Features.Users.Queries.GetByIdUsers;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -27,6 +28,16 @@ namespace GestaoUsuariosApi.Controllers
         public async Task<IActionResult> GetAll()
         {
             var result = await _mediator.Send(new GetAllUsersQuery());
+            return Ok(result);
+        }
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetbyId(int id)
+        {
+            var result = await _mediator.Send(new GetByIdUsersQuery(id));
+
+            if (result is null) return NotFound("Registro não localizado!");
+
             return Ok(result);
         }
     }
