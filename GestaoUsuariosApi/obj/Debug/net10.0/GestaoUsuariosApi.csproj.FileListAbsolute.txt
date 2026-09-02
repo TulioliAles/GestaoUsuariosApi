@@ -157,10 +157,10 @@ C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\stati
 C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\GestaoUs.22A6ABB2.Up2Date
 C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\GestaoUsuariosApi.dll
 C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\refint\GestaoUsuariosApi.dll
 C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\GestaoUsuariosApi.pdb
 C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\GestaoUsuariosApi.genruntimeconfig.cache
 C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\ref\GestaoUsuariosApi.dll
+C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\GestaoUsuariosApi.sourcelink.json

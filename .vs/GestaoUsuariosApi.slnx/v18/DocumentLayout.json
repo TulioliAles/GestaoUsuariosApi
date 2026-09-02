@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F95F0E2C-0DA7-486C-BE1E-DAE5573E3564}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|c:\\users\\tulioli\\dev\\gestaousuariosapi\\gestaousuariosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F95F0E2C-0DA7-486C-BE1E-DAE5573E3564}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|solutionrelative:gestaousuariosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|c:\\users\\tulioli\\dev\\gestaousuariosapi\\gestaousuariosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|solutionrelative:gestaousuariosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|c:\\users\\tulioli\\dev\\gestaousuariosapi\\gestaousuariosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|solutionrelative:gestaousuariosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Program.cs",
+              "RelativeDocumentMoniker": "GestaoUsuariosApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Program.cs",
+              "RelativeToolTip": "GestaoUsuariosApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T13:46:20.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "GestaoUsuariosApi\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Data\\AppDbContext.cs",
               "RelativeToolTip": "GestaoUsuariosApi\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T23:54:29.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T23:54:29.214Z"
             }
           ]
         }
