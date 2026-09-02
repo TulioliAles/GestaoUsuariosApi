@@ -164,3 +164,7 @@ C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\Gesta
 C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\GestaoUsuariosApi.genruntimeconfig.cache
 C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\ref\GestaoUsuariosApi.dll
 C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\GestaoUsuariosApi.sourcelink.json
+C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\bin\Debug\net10.0\MediatR.dll
+C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\bin\Debug\net10.0\MediatR.Contracts.dll
+C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Tulioli\dev\GestaoUsuariosApi\GestaoUsuariosApi\bin\Debug\net10.0\Scalar.AspNetCore.dll

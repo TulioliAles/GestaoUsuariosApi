@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|c:\\users\\tulioli\\dev\\gestaousuariosapi\\gestaousuariosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|solutionrelative:gestaousuariosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|c:\\users\\tulioli\\dev\\gestaousuariosapi\\gestaousuariosapi\\features\\users\\queries\\getallusers\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|solutionrelative:gestaousuariosapi\\features\\users\\queries\\getallusers\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|c:\\users\\tulioli\\dev\\gestaousuariosapi\\gestaousuariosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|solutionrelative:gestaousuariosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|c:\\users\\tulioli\\dev\\gestaousuariosapi\\gestaousuariosapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|solutionrelative:gestaousuariosapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|c:\\users\\tulioli\\dev\\gestaousuariosapi\\gestaousuariosapi\\features\\users\\queries\\getallusers\\getallusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|solutionrelative:gestaousuariosapi\\features\\users\\queries\\getallusers\\getallusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +22,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Program.cs",
-              "RelativeDocumentMoniker": "GestaoUsuariosApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Program.cs",
-              "RelativeToolTip": "GestaoUsuariosApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Title": "GetAllUsersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Features\\Users\\Queries\\GetAllUsers\\GetAllUsersQuery.cs",
+              "RelativeDocumentMoniker": "GestaoUsuariosApi\\Features\\Users\\Queries\\GetAllUsers\\GetAllUsersQuery.cs",
+              "ToolTip": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Features\\Users\\Queries\\GetAllUsers\\GetAllUsersQuery.cs",
+              "RelativeToolTip": "GestaoUsuariosApi\\Features\\Users\\Queries\\GetAllUsers\\GetAllUsersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T13:46:20.233Z"
+              "WhenOpened": "2026-09-02T17:45:34.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllUsersHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Features\\Users\\Queries\\GetAllUsers\\GetAllUsersHandler.cs",
+              "RelativeDocumentMoniker": "GestaoUsuariosApi\\Features\\Users\\Queries\\GetAllUsers\\GetAllUsersHandler.cs",
+              "ToolTip": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Features\\Users\\Queries\\GetAllUsers\\GetAllUsersHandler.cs",
+              "RelativeToolTip": "GestaoUsuariosApi\\Features\\Users\\Queries\\GetAllUsers\\GetAllUsersHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:45:57.936Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "GestaoUsuariosApi\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "GestaoUsuariosApi\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "GestaoUsuariosApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "GestaoUsuariosApi\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T23:54:29.214Z"
+              "WhenOpened": "2026-09-02T17:02:43.392Z",
+              "EditorCaption": ""
             }
           ]
         }
