@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|solutionrelative:gestaousuariosapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|c:\\users\\tulioli\\dev\\gestaousuariosapi\\gestaousuariosapi\\features\\users\\queries\\getbyidusers\\getbyidusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|solutionrelative:gestaousuariosapi\\features\\users\\queries\\getbyidusers\\getbyidusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|c:\\users\\tulioli\\dev\\gestaousuariosapi\\gestaousuariosapi\\features\\users\\commands\\update\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|solutionrelative:gestaousuariosapi\\features\\users\\commands\\update\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|c:\\users\\tulioli\\dev\\gestaousuariosapi\\gestaousuariosapi\\features\\users\\queries\\getallusers\\getallusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|solutionrelative:gestaousuariosapi\\features\\users\\queries\\getallusers\\getallusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|c:\\users\\tulioli\\dev\\gestaousuariosapi\\gestaousuariosapi\\features\\users\\commands\\update\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA484D1-D798-8C7E-A124-1EE11C3B269F}|GestaoUsuariosApi\\GestaoUsuariosApi.csproj|solutionrelative:gestaousuariosapi\\features\\users\\commands\\update\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GetAllUsersHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Features\\Users\\Queries\\GetAllUsers\\GetAllUsersHandler.cs",
-              "RelativeDocumentMoniker": "GestaoUsuariosApi\\Features\\Users\\Queries\\GetAllUsers\\GetAllUsersHandler.cs",
-              "ToolTip": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Features\\Users\\Queries\\GetAllUsers\\GetAllUsersHandler.cs",
-              "RelativeToolTip": "GestaoUsuariosApi\\Features\\Users\\Queries\\GetAllUsers\\GetAllUsersHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABTAAAAAAAAAA==",
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Features\\Users\\Commands\\Update\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "GestaoUsuariosApi\\Features\\Users\\Commands\\Update\\UpdateUserCommand.cs",
+              "ToolTip": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Features\\Users\\Commands\\Update\\UpdateUserCommand.cs",
+              "RelativeToolTip": "GestaoUsuariosApi\\Features\\Users\\Commands\\Update\\UpdateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T18:14:20.276Z",
+              "WhenOpened": "2026-09-02T23:43:02.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GetByIdUsersHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Features\\Users\\Queries\\GetByIdUsers\\GetByIdUsersHandler.cs",
-              "RelativeDocumentMoniker": "GestaoUsuariosApi\\Features\\Users\\Queries\\GetByIdUsers\\GetByIdUsersHandler.cs",
-              "ToolTip": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Features\\Users\\Queries\\GetByIdUsers\\GetByIdUsersHandler.cs",
-              "RelativeToolTip": "GestaoUsuariosApi\\Features\\Users\\Queries\\GetByIdUsers\\GetByIdUsersHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Title": "UpdateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Features\\Users\\Commands\\Update\\UpdateUserHandler.cs",
+              "RelativeDocumentMoniker": "GestaoUsuariosApi\\Features\\Users\\Commands\\Update\\UpdateUserHandler.cs",
+              "ToolTip": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Features\\Users\\Commands\\Update\\UpdateUserHandler.cs",
+              "RelativeToolTip": "GestaoUsuariosApi\\Features\\Users\\Commands\\Update\\UpdateUserHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T18:06:41.597Z",
+              "WhenOpened": "2026-09-02T23:43:25.254Z",
               "EditorCaption": ""
             },
             {
@@ -62,7 +62,7 @@
               "RelativeDocumentMoniker": "GestaoUsuariosApi\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\Tulioli\\dev\\GestaoUsuariosApi\\GestaoUsuariosApi\\Controllers\\UsersController.cs",
               "RelativeToolTip": "GestaoUsuariosApi\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAcwCYAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwDEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-02T17:02:43.392Z",
               "EditorCaption": ""

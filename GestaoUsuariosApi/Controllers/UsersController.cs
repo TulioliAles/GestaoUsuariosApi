@@ -1,4 +1,5 @@
 ﻿using GestaoUsuariosApi.Features.Users.Commands.Create;
+using GestaoUsuariosApi.Features.Users.Commands.Update;
 using GestaoUsuariosApi.Features.Users.Queries.GetAllUsers;
 using GestaoUsuariosApi.Features.Users.Queries.GetByIdUsers;
 using MediatR;
@@ -35,10 +36,18 @@ namespace GestaoUsuariosApi.Controllers
         public async Task<IActionResult> GetbyId(int id)
         {
             var result = await _mediator.Send(new GetByIdUsersQuery(id));
-
             if (result is null) return NotFound("Registro não localizado!");
-
             return Ok(result);
+        }
+
+        [HttpPut]
+        public async Task<IActionResult> Update(UpdateUserCommand command)
+        {
+            var result = await _mediator.Send(command);
+
+            if (!result) return NotFound("Registro não localizado.");
+
+            return NoContent();
         }
     }
 }
