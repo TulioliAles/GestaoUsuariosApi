@@ -1,4 +1,5 @@
 ﻿using GestaoUsuariosApi.Features.Users.Commands.Create;
+using GestaoUsuariosApi.Features.Users.Commands.Delete;
 using GestaoUsuariosApi.Features.Users.Commands.Update;
 using GestaoUsuariosApi.Features.Users.Queries.GetAllUsers;
 using GestaoUsuariosApi.Features.Users.Queries.GetByIdUsers;
@@ -44,6 +45,16 @@ namespace GestaoUsuariosApi.Controllers
         public async Task<IActionResult> Update(UpdateUserCommand command)
         {
             var result = await _mediator.Send(command);
+
+            if (!result) return NotFound("Registro não localizado.");
+
+            return NoContent();
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var result = await _mediator.Send(new DeleteUserCommand(id));
 
             if (!result) return NotFound("Registro não localizado.");
 
